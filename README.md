@@ -1,2 +1,3 @@
 # Instagram-Clone-Analysis
-Instagram Clone Analysis using SQL
+
+SQL is used to perform data Analysis for real world business related questions and scenarios
